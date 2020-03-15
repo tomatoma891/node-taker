@@ -1,6 +1,6 @@
 # An application that can be used to write, save, and delete notes. 
 
-* **Node.js
+* **Node.js**
 * **Express
 * **ES6
 * **AJAX
