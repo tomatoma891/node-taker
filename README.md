@@ -17,6 +17,9 @@ Application should allow users to delete previously saved notes.**
 # Visuals
 Home
 Landing page with button to take you to the notes page 
+![](/images/landingpage.png)
+![](/images/writingnote.png)
+![](/images/savednotes.png)
 
 ## Usage
 * From the home page click Get Started.
