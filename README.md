@@ -44,4 +44,4 @@ Landing page with button to take you to the notes page
 * Using Heroku for publishing projects containing a front end and back end
 
 ## Links to project
-https://glacial-shore-62077.herokuapp.com/
+https://stark-badlands-15796.herokuapp.com/
